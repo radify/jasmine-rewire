@@ -1,0 +1,13 @@
+{
+  "name": "jasmine-rewire",
+  "version": "1.0.1",
+  "description": "Rewire helper for Jasmine specs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Radify",
+  "license": "BSD-3-Clause",
+  "dependencies": {},
+  "devDependencies": {}
+}
